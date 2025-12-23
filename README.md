@@ -27,32 +27,6 @@ I’ve worked across **enterprise-grade platforms**, collaborating with distribu
 
 ---
 
-## 💼 Professional Experience
-
-### 🛡️ **CyberArk**  
-**Software Engineer** | *2020 – 2023*  
-- Built and maintained secure, enterprise-level services  
-- Worked with large-scale systems and security-focused architectures  
-- Contributed to core backend functionality and long-term maintainability  
-
----
-
-### 🧬 **Exact Sciences**  
-**Software Engineer** | *2023 – 2024*  
-- Developed high-reliability applications in a regulated environment  
-- Focused on scalability, stability, and clean code practices  
-- Collaborated closely with cross-functional teams  
-
----
-
-### ⚖️ **Mitratech**  
-**Senior Software Engineer** | *2024 – Present*  
-- Designing and building modern, scalable services  
-- Leading technical decisions and improving system architecture  
-- Mentoring, reviewing code, and pushing engineering quality forward  
-
----
-
 ## 🌐 Online Presence
 
 🔗 **LinkedIn**  
@@ -63,16 +37,6 @@ I’ve worked across **enterprise-grade platforms**, collaborating with distribu
 
 ✍️ **Blog (Medium)**  
 👉 https://medium.com/@_RR
-
----
-
-## 🎯 What I Bring as a Senior Engineer
-
-- Ownership mentality — I treat products like mine  
-- Strong backend fundamentals with frontend awareness  
-- Clear communication with both technical & non-technical teams  
-- Focus on **long-term maintainability**, not just shipping fast  
-- Ability to adapt quickly and lead through complexity  
 
 ---
 
