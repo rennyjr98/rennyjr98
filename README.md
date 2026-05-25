@@ -1,6 +1,6 @@
 # 👋 Hi, I'm René Rodríguez
 
-🚀 **Senior Software Engineer** | Full-Stack | Cloud-Ready | Problem Solver
+🚀 **Senior Software Engineer** | Full-Stack | Cloud Infrastructure | Problem Solver
 
 I’m a software engineer with strong experience building **scalable, maintainable, and high-impact systems**.  
 I enjoy turning complex problems into clean, efficient solutions, leading technical decisions, and delivering products that actually matter.
